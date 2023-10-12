@@ -1,15 +1,21 @@
 
 # Hi there! 👋 I'm Diego Landony
+I'm a passionate self-taught student and aspiring front-end developer.
 
-I am a passionate student learning self-taughtf.
+## About me 🌱
 
-- 🌱 I’m currently learning **Python**, **HTML**, **CSS**, **JavaScript**, and **Linux**.
+I have a passion for web design and user experience. I'm currently learning **Python**, **HTML**, **CSS**, **JavaScript**,**Linux** and ***Python***.
+I'm always looking for new challenges.
+
+I'm passionate about using technology to make a positive impact on the world. I'm committed to becoming a skilled and experienced front-end developer, and I'm excited to see what the future holds.
+
 
 ## Connect with me:
 
 You can find me on 
 - [Instagram](https://instagram.com/diego_landony).
 - [Linkedin](https://www.linkedin.com/in/diego-landony-lima-toledo-bb8529241/)
+
 ## Languages and Tools:
 
 Learning:
