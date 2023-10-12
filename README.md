@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm Diego Landony</h1>
-<h3 align="center">I am a passionate student learning self-taughtf</h3>
+# Hi there! 👋 I'm Diego Landony
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascritp and linux.**
+I'm a passionate self-taught student and aspiring front-end developer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/diego_landony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego_landony" height="30" width="40" /></a>
-</p>
+## 🌱 What I'm Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm on a journey to master various technologies, including:
+
+- **Python**
+- **Web Development**
+- **Linux**
+
+## 🚀 Goals
+
+My goal is to create user-friendly web applications and contribute to the tech community.
+
+## 📫 Connect with Me
+
+Let's connect! You can find me on
+[Instagram](https://instagram.com/diego_landony).
+[Linkedin](https://www.linkedin.com/in/diego-landony-lima-toledo-bb8529241)
+
+## 💻 Languages and Tools
+
+Learning:
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20"> CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20"> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="20"> Linux
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"> Python
+
+Let's learn and grow together! 🌟
+
+
 
 <!---
 Diego-Landony/Diego-Landony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
