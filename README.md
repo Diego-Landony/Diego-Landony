@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Diego Landony
+## Hi there! 👋 I'm Diego Landony
 
 I'm a passionate self-taught student and aspiring front-end developer.
 
