@@ -22,7 +22,6 @@ Learning:
 ## Connect with me:
 
 You can find me on 
-- [Instagram](https://instagram.com/diego_landony).
 - [Linkedin](https://www.linkedin.com/in/diego-landony-lima-toledo-bb8529241/)
 
 Let's learn and grow together! 🌟
