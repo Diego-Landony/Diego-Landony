@@ -1,27 +1,23 @@
+# ¡Hola! 👋 Soy Diego Landony
 
-# Hi there! 👋 I'm Diego Landony
-I'm a passionate self-taught student and aspiring front-end developer.
+## Sobre mí 🌱
 
-## About me 🌱
+Enfocado en el diseño y la experiencia de usuario y siempre buscando nuevos desafíos.
 
-I have a passion for web design and user experience. I'm currently learning **Python**, **HTML**, **CSS**, **JavaScript**,**Linux** and ***Python***.
-I'm always looking for new challenges.
+Estoy comprometido a convertirme en un desarrollador fullstack hábil y experimentado, emocionado por ver lo que me depara el futuro.
 
-I'm passionate about using technology to make a positive impact on the world. I'm committed to becoming a skilled and experienced front-end developer, and I'm excited to see what the future holds.
+## Lenguajes y Herramientas:
 
-## Languages and Tools:
+### Aprendiendo:
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="20"> Laravel
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20"> MySQL
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"> JavaScript
+### Por aprender:
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"> React y Reac Native
 
-Learning:
+## Conéctate conmigo:
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20"> CSS3
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20"> HTML5
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20"> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20"> Linux
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20"> Python
+Puedes encontrarme en:
+* [LinkedIn](https://www.linkedin.com/in/diego-landony-lima-toledo-bb8529241/)
 
-## Connect with me:
-
-You can find me on 
-- [Linkedin](https://www.linkedin.com/in/diego-landony-lima-toledo-bb8529241/)
-
-Let's learn and grow together! 🌟
+¡Aprendamos y crezcamos juntos! 🌟
