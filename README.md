@@ -1,8 +1,6 @@
 # Hola, Acá Diego! 👋
 
-**Desarrollador Full Stack** 
-
----
+**Desarrollador Full Stack** ---
 
 ### Mi stack:
 
@@ -17,4 +15,4 @@
 ---
 
 ### Contacto:
-[diegolandonylima@gmail.com](mailto:diegolandonylima@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-landony-52083a304/)
